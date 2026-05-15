@@ -45,4 +45,4 @@ def refaire():
         cprint(f"Le résultat était : {result}",color="red" , attrs=["italic","bold"])
         question_refaire()
 
-refaire()
+refaire() #
